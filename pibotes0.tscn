@@ -1,0 +1,43 @@
+[gd_scene load_steps=2 format=2]
+
+[ext_resource path="res://pibote0.tscn" type="PackedScene" id=1]
+
+[node name="pibotes0" type="Node2D" groups=[
+"gr_pibote",
+]]
+
+[node name="pibote0" parent="." instance=ExtResource( 1 )]
+position = Vector2( 64, 64 )
+
+[node name="pibote1" parent="." instance=ExtResource( 1 )]
+position = Vector2( 64, 704 )
+
+[node name="pibote2" parent="." instance=ExtResource( 1 )]
+position = Vector2( 480, 224 )
+
+[node name="pibote3" parent="." instance=ExtResource( 1 )]
+position = Vector2( 480, 544 )
+
+[node name="pibote4" parent="." instance=ExtResource( 1 )]
+position = Vector2( 1216, 704 )
+
+[node name="pibote5" parent="." instance=ExtResource( 1 )]
+position = Vector2( 1216, 64 )
+
+[node name="pibote6" parent="." instance=ExtResource( 1 )]
+position = Vector2( 800, 224 )
+
+[node name="pibote8" parent="." instance=ExtResource( 1 )]
+position = Vector2( 928, 384 )
+
+[node name="pibote9" parent="." instance=ExtResource( 1 )]
+position = Vector2( 384, 384 )
+
+[node name="pibote10" parent="." instance=ExtResource( 1 )]
+position = Vector2( 640, 672 )
+
+[node name="pibote11" parent="." instance=ExtResource( 1 )]
+position = Vector2( 640, 96 )
+
+[node name="pibote7" parent="." instance=ExtResource( 1 )]
+position = Vector2( 800, 544 )

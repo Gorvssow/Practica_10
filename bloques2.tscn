@@ -1,0 +1,131 @@
+[gd_scene load_steps=2 format=2]
+
+[ext_resource path="res://bloque2.tscn" type="PackedScene" id=1]
+
+[node name="bloques2" type="Node2D"]
+
+[node name="bloque2" parent="." groups=[
+"group_bloque",
+] instance=ExtResource( 1 )]
+position = Vector2( 1232.73, 189.866 )
+rotation = -1.55658
+
+[node name="bloque3" parent="." groups=[
+"group_bloque",
+] instance=ExtResource( 1 )]
+position = Vector2( 1232.73, 246.802 )
+rotation = -1.55658
+
+[node name="bloque4" parent="." groups=[
+"group_bloque",
+] instance=ExtResource( 1 )]
+position = Vector2( 1229.73, 309.731 )
+rotation = -1.55658
+
+[node name="bloque5" parent="." groups=[
+"group_bloque",
+] instance=ExtResource( 1 )]
+position = Vector2( 1229.73, 368.165 )
+rotation = -1.55658
+
+[node name="bloque6" parent="." groups=[
+"group_bloque",
+] instance=ExtResource( 1 )]
+position = Vector2( 1232.73, 434.091 )
+rotation = -1.55658
+
+[node name="bloque7" parent="." groups=[
+"group_bloque",
+] instance=ExtResource( 1 )]
+position = Vector2( 1229.73, 498.518 )
+rotation = -1.55658
+
+[node name="bloque8" parent="." groups=[
+"group_bloque",
+] instance=ExtResource( 1 )]
+position = Vector2( 1231.23, 562.945 )
+rotation = -1.55658
+
+[node name="bloque9" parent="." groups=[
+"group_bloque",
+] instance=ExtResource( 1 )]
+position = Vector2( 1232.73, 625.874 )
+rotation = -1.55658
+
+[node name="bloque10" parent="." groups=[
+"group_bloque",
+] instance=ExtResource( 1 )]
+position = Vector2( 1189.28, 594.409 )
+rotation = -1.55658
+
+[node name="bloque11" parent="." groups=[
+"group_bloque",
+] instance=ExtResource( 1 )]
+position = Vector2( 1189.28, 528.484 )
+rotation = -1.55658
+
+[node name="bloque12" parent="." groups=[
+"group_bloque",
+] instance=ExtResource( 1 )]
+position = Vector2( 1184.79, 464.057 )
+rotation = -1.55658
+
+[node name="bloque13" parent="." groups=[
+"group_bloque",
+] instance=ExtResource( 1 )]
+position = Vector2( 1186.28, 401.128 )
+rotation = -1.55658
+
+[node name="bloque14" parent="." groups=[
+"group_bloque",
+] instance=ExtResource( 1 )]
+position = Vector2( 1186.28, 327.711 )
+rotation = -1.55658
+
+[node name="bloque15" parent="." groups=[
+"group_bloque",
+] instance=ExtResource( 1 )]
+position = Vector2( 1186.28, 269.277 )
+rotation = -1.55658
+
+[node name="bloque16" parent="." groups=[
+"group_bloque",
+] instance=ExtResource( 1 )]
+position = Vector2( 1189.28, 210.843 )
+rotation = -1.55658
+
+[node name="bloque17" parent="." groups=[
+"group_bloque",
+] instance=ExtResource( 1 )]
+position = Vector2( 1143.87, 238.592 )
+rotation = -1.55658
+
+[node name="bloque18" parent="." groups=[
+"group_bloque",
+] instance=ExtResource( 1 )]
+position = Vector2( 1143.03, 296.614 )
+rotation = -1.55658
+
+[node name="bloque19" parent="." groups=[
+"group_bloque",
+] instance=ExtResource( 1 )]
+position = Vector2( 1143.87, 365.568 )
+rotation = -1.55658
+
+[node name="bloque20" parent="." groups=[
+"group_bloque",
+] instance=ExtResource( 1 )]
+position = Vector2( 1142.19, 428.635 )
+rotation = -1.55658
+
+[node name="bloque21" parent="." groups=[
+"group_bloque",
+] instance=ExtResource( 1 )]
+position = Vector2( 1142.19, 493.384 )
+rotation = -1.55658
+
+[node name="bloque22" parent="." groups=[
+"group_bloque",
+] instance=ExtResource( 1 )]
+position = Vector2( 1140.51, 559.815 )
+rotation = -1.55658

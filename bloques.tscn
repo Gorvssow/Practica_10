@@ -1,0 +1,70 @@
+[gd_scene load_steps=2 format=2]
+
+[ext_resource path="res://bloque.tscn" type="PackedScene" id=1]
+
+[node name="bloques" type="Node2D"]
+position = Vector2( 216.488, 282.415 )
+rotation = 1.57305
+
+[node name="bloque" parent="." instance=ExtResource( 1 )]
+position = Vector2( -79.9505, 146.249 )
+
+[node name="bloque2" parent="." instance=ExtResource( 1 )]
+position = Vector2( 181.203, 150.491 )
+
+[node name="bloque3" parent="." instance=ExtResource( 1 )]
+position = Vector2( 116.428, 147.443 )
+
+[node name="bloque4" parent="." instance=ExtResource( 1 )]
+position = Vector2( 288.642, 109.999 )
+
+[node name="bloque5" parent="." instance=ExtResource( 1 )]
+position = Vector2( 161.34, 115.525 )
+
+[node name="bloque6" parent="." instance=ExtResource( 1 )]
+position = Vector2( -41.0215, 114.88 )
+
+[node name="bloque7" parent="." instance=ExtResource( 1 )]
+position = Vector2( 308.565, 146.117 )
+
+[node name="bloque8" parent="." instance=ExtResource( 1 )]
+position = Vector2( 223.503, 112.913 )
+
+[node name="bloque9" parent="." instance=ExtResource( 1 )]
+position = Vector2( 15.1305, 116.737 )
+
+[node name="bloque10" parent="." instance=ExtResource( 1 )]
+position = Vector2( 81.9295, 118.266 )
+
+[node name="bloque11" parent="." instance=ExtResource( 1 )]
+position = Vector2( 37.3279, 151.145 )
+
+[node name="bloque12" parent="." instance=ExtResource( 1 )]
+position = Vector2( 243.126, 152.036 )
+
+[node name="bloque13" parent="." instance=ExtResource( 1 )]
+position = Vector2( -23.1167, 150.37 )
+
+[node name="bloque14" parent="." instance=ExtResource( 1 )]
+position = Vector2( 143.345, 187.672 )
+
+[node name="bloque15" parent="." instance=ExtResource( 1 )]
+position = Vector2( 201.251, 186.651 )
+
+[node name="bloque16" parent="." instance=ExtResource( 1 )]
+position = Vector2( 268.963, 188.28 )
+
+[node name="bloque17" parent="." instance=ExtResource( 1 )]
+position = Vector2( 79.1944, 185.144 )
+
+[node name="bloque18" parent="." instance=ExtResource( 1 )]
+position = Vector2( 11.4843, 184.405 )
+
+[node name="bloque19" parent="." instance=ExtResource( 1 )]
+position = Vector2( -46.426, 183.645 )
+
+[node name="bloque20" parent="." instance=ExtResource( 1 )]
+position = Vector2( 338.451, 187.233 )
+
+[node name="bloque21" parent="." instance=ExtResource( 1 )]
+position = Vector2( -103.447, 181.991 )

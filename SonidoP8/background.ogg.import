@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/background.ogg-d27df9373c977c6d4be0b447b6681903.oggstr"
+
+[deps]
+
+source_file="res://SonidoP8/background.ogg"
+dest_files=[ "res://.import/background.ogg-d27df9373c977c6d4be0b447b6681903.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0
